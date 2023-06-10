@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on My own projects
 - 🌱 I’m currently learning React
-- 👯 I’m actively seeking a fullstack web developer position and open to opportunities in a variety of industries.
+- 👯 I’m actively seeking a frontend web developer position and open to opportunities in a variety of industries.
 - 📫 How to reach me: You can contact me through my socials
   - [**LinkedIn**](https://www.linkedin.com/in/alibek-mukhammadiev-545165276/)
   - [**Telegram**](https://t.me/pythonistaDev)
