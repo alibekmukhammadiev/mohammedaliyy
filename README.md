@@ -5,7 +5,7 @@
 - 👯 I’m actively seeking a frontend web developer position and open to opportunities in a variety of industries.
 - 📫 How to reach me: You can contact me through my socials
   - [**LinkedIn**](https://www.linkedin.com/in/alibek-mukhammadiev-545165276/)
-  - [**Telegram**](https://t.me/pythonistaDev)
+  - [**Telegram**](https://t.me/alibekmukhammadiev)
   - [**Email**](alibek.mukhammadiev@gmail.com)
 
 
